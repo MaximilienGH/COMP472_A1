@@ -1,0 +1,19 @@
+              precision    recall  f1-score   support
+
+           0       0.77      0.84      0.80        55
+           1       0.89      0.91      0.90       125
+           2       0.45      0.60      0.51        15
+           3       0.60      0.60      0.60        15
+           4       0.59      0.40      0.48        50
+           5       0.66      0.76      0.71        55
+           6       0.75      0.40      0.52        15
+           7       1.00      0.87      0.93        15
+           8       0.79      0.84      0.82        50
+           9       0.82      0.82      0.82       125
+
+    accuracy                           0.78       520
+   macro avg       0.73      0.70      0.71       520
+weighted avg       0.77      0.78      0.77       520
+
+Best parameters are:
+ {'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'min_impurity_decrease': 0.0005, 'min_samples_split': 5}

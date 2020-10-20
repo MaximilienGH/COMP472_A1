@@ -1,0 +1,19 @@
+              precision    recall  f1-score   support
+
+           0       0.88      0.93      0.90        55
+           1       0.96      0.97      0.96       125
+           2       0.69      0.60      0.64        15
+           3       0.87      0.87      0.87        15
+           4       0.87      0.82      0.85        50
+           5       0.87      0.96      0.91        55
+           6       1.00      0.73      0.85        15
+           7       1.00      1.00      1.00        15
+           8       0.84      0.96      0.90        50
+           9       0.96      0.90      0.93       125
+
+    accuracy                           0.91       520
+   macro avg       0.89      0.87      0.88       520
+weighted avg       0.91      0.91      0.91       520
+
+Best parameters are:
+ {'activation': 'tanh', 'hidden_layer_sizes': (200,), 'solver': 'adam'}
