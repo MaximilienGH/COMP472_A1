@@ -1,0 +1,1 @@
+When asked to plot the distribution of the number of instances in each class (part 1), the file(s) to be used for this task were not mentioned. Hence, I used the training, validation and testing sets to represent those distributions.
