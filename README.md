@@ -1,7 +1,7 @@
 # COMP 472 - Assignment 1
 
 ## Link to assignment repository
-https://github.com/MaximilienGH/COMP_472_A1/
+https://github.com/MaximilienGH/COMP472_A1
 
 ## Information about the group
 * Group name: Only the Lonely
